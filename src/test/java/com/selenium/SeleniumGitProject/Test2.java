@@ -16,6 +16,10 @@ public class Test2 {
 	public void centralMethod() {
 		
 	}
+	public void centralMethod2() {
+		
+	}
+	
 }
 
 //
