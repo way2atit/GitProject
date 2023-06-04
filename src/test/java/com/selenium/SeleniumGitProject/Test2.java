@@ -12,7 +12,10 @@ public class Test2 {
 	public void m2() {
 		
 	}
-
+	
+public void m2() {
+		
+	}
 	public void centralMethod() {
 		
 	}
